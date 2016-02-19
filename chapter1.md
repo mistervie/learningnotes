@@ -1,8 +1,9 @@
 # 关于KVC
 ###使用方法
-1. 创建一个模型类 如xxx
-2.	在h文件中声明 +(instancetype)xxxWithDic:(NSDictionary *)dic 方法
-3.  在m文件中实现 +(instancetype)xxxWithDic:(NSDictionary *)dic 方法
+- 创建一个模型类 如xxx
+- 声明模型类中所需要的属性，和数据字典中的Key值一一对应
+- 在h文件中声明 +(instancetype)xxxWithDic:(NSDictionary *)dic 方法
+- 在m文件中实现 +(instancetype)xxxWithDic:(NSDictionary *)dic 方法
 
 ```objc	
 +(instancetype)xxxWithDic:(NSDictionary *)dic{
