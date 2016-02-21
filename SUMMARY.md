@@ -5,5 +5,5 @@
 * [02.About RootViewController](02.about_rootviewcontroller.md)
 * [03.AFNetworking](03.afnetworking.md)
 * [04.TableView](04.tableview.md)
-* [05.VIEDiscovery](05.viediscovery.md)
+* [05.VIEDiscovery](05.viediscoverymd.md)
 
